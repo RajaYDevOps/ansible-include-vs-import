@@ -13,4 +13,3 @@
 - name: common role msg-4
   debug: 
     msg: "Hi,I am from common role MSG-4"
-
